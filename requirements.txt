@@ -2,3 +2,4 @@ git+https://github.com/DMJTax/prtools
 numpy
 scipy
 matplotlib
+scikit-learn
